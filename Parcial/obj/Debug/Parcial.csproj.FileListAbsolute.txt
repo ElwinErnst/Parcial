@@ -1,0 +1,8 @@
+C:\Users\MI\Desktop\Parcial\Parcial\obj\Debug\Parcial.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\Parcial\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\MI\Desktop\Parcial\Parcial\bin\Debug\Parcial.exe.config
+C:\Users\MI\Desktop\Parcial\Parcial\bin\Debug\Parcial.exe
+C:\Users\MI\Desktop\Parcial\Parcial\bin\Debug\Parcial.pdb
+C:\Users\MI\Desktop\Parcial\Parcial\obj\Debug\Parcial.csproj.CopyComplete
+C:\Users\MI\Desktop\Parcial\Parcial\obj\Debug\Parcial.exe
+C:\Users\MI\Desktop\Parcial\Parcial\obj\Debug\Parcial.pdb
